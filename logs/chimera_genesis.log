@@ -1,0 +1,4 @@
+2025-07-21 00:29:56,399 - [INFO] - PROMETHEUS-CHIMERA - Loaded configuration from /app/prometheus_chimera/config.yaml
+2025-07-21 00:29:56,442 - [INFO] - PROMETHEUS-CHIMERA - ChimeraKernel initialised. State=DORMANT
+2025-07-21 00:29:56,442 - [INFO] - PROMETHEUS-CHIMERA - Running in headless mode (no CLI)
+2025-07-21 00:30:06,522 - [INFO] - PROMETHEUS-CHIMERA - Headless run complete. Shutting down.

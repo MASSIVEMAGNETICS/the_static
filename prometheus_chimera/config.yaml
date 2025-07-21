@@ -1,0 +1,25 @@
+# prometheus_chimera/config.yaml
+
+# PROMETHEUS-CHIMERA System Configuration
+# VERSION: 1.0.0-GENESIS
+
+kernel:
+  tick_rate_hz: 10.0
+  max_cognitive_steps: 100
+
+omega_tensor:
+  default_dtype: "float32"
+  device: "cpu" # Future-proofed for 'cuda' or 'tpu'
+
+fractal_consciousness:
+  mesh_depth: 4
+  base_nodes: 12
+  state_decay_factor: 0.95
+
+audio_synthesis:
+  engine: "local_stub" # Placeholder for future audio engine integration
+  default_voice_id: "victor_prime"
+
+logging:
+  level: "INFO"
+  log_file: "logs/chimera_genesis.log"
