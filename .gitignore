@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Vite
+.vite/
+
+# Node
+node_modules
+
+# Logs
+npm_output.log
